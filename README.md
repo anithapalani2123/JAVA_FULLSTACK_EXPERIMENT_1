@@ -31,8 +31,9 @@ public class math_calc
 
 ## Output:
 
-![j1](https://github.com/anithapalani2123/JAVA_FULLSTACK_EXPERIMENT_1/assets/94184990/d15824da-0d9b-4592-a069-b228fef980fb)
 
+
+![image](https://github.com/anithapalani2123/JAVA_FULLSTACK_EXPERIMENT_1/assets/94184990/02bd5e52-25d6-472d-b11f-b295ad61440c)
 
 
 
