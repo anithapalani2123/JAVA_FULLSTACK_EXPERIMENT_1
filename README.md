@@ -3,11 +3,11 @@
   To WRITE A JAVA PROGRAM TO PRINT THE ARITHMETIC OPERATIONS
 ## PROCEDURE:
 
-1.Create the main class and declare the main method so that the program can be identified and start running.
-2.In main method decalre two variables with appropriate data type declaration.
-3.Perform the basic arithmatic operations (addition,subtraction,multiplication,division).
-4.Print the output using "System.outprintln" to see the results.
-5.The program completes it's execution and the output will be displayed eventually.
+### 1. Create the main class and declare the main method so that the program can be identified and start running.
+### 2.In main method decalre two variables with appropriate data type declaration.
+### 3.Perform the basic arithmatic operations (addition,subtraction,multiplication,division).
+### 4.Print the output using "System.outprintln" to see the results.
+### 5.The program completes it's execution and the output will be displayed eventually.
 ## Program:
 ```
 import java.util.Scanner;
